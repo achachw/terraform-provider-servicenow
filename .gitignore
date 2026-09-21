@@ -1,0 +1,7 @@
+terraform-provider-servicenow
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+crash.log
+.DS_Store
